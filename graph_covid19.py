@@ -17,6 +17,8 @@ x_data, y_data = [], []
 figure = pyplot.figure(num="Aşı Grafiği")
 line, = pyplot.plot_date(x_data, y_data, '-')
 
+pyplot.xlabel("Zaman")
+pyplot.ylabel("Aşı olan kişi")
 
 def update(frame):
     driver.get('https://covid19asi.saglik.gov.tr/')
