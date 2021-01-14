@@ -6,5 +6,5 @@ This is a python program to draw a graph using Health Ministery's data.
 <h1 align="center">
     How does it look?
   <br>
-    <img src="https://i.imgur.com/UyIopiP.png"/>
+    <img src="https://i.imgur.com/RguFKxX.png"/>
   </h1>
